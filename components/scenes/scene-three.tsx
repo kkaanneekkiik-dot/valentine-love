@@ -8,10 +8,10 @@ interface SceneThreeProps {
 }
 
 const funFacts = [
-  "This pixel traveled 3,000 miles to reach you",
-  "You just activated 17 neurons reading this",
-  "A red photon has a wavelength of ~700 nanometers",
-  "Your screen refreshes 60 times per second for this",
+  "Things that keep me company, ur photos, ur name in my walls, ur gifts",
+  "Your memories live quietly in the corners of my room",
+  "Even when apart , you feels close, in the world I carry",
+  "Even in silence, pesence never fades",
 ]
 
 function FloatingOrb({ index }: { index: number }) {

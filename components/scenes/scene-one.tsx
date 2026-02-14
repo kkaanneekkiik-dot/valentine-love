@@ -110,7 +110,7 @@ export function SceneOne({ onAdvance }: SceneOneProps) {
               whileHover={{ scale: 1.05, color: "hsl(0, 72%, 51%)" }}
               aria-label="Click to begin the experience"
             >
-              Click if you Love me
+              Click if you still here
             </motion.button>
           </motion.div>
         )}

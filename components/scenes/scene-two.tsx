@@ -8,9 +8,9 @@ interface SceneTwoProps {
 }
 
 const lines = [
-  "Some stories aren't told.",
-  "They're felt.",
-  "This is one of those.",
+  "Some feelings don't fade.",
+  "They linger in memories, in laughter, in the moments that made us",
+  "This story is still ours, unfolding at its own pace",
   "Stay close...",
 ]
 
